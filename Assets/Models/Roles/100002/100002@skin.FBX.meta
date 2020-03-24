@@ -1,0 +1,493 @@
+fileFormatVersion: 2
+guid: efa41b10992c28d4dbc88d6d3511b854
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Bone01
+    100002: Bone06
+    100004: Bone08
+    100006: Bone09
+    100008: Bone11
+    100010: Bone15
+    100012: Bone17
+    100014: Bone19
+    100016: Bone21
+    100018: Bone_Eye01Root
+    100020: Bone_Mouth01Root
+    100022: //RootNode
+    100024: QiE01_qiang01
+    100026: QiE01_toujing01
+    100028: QiE01_toujing02
+    100030: QiE01_toujing03
+    100032: QiE01_toujing04
+    100034: QiE01_toujing05
+    100036: QiE01_toujing06
+    100038: QiE_B_ArmL00
+    100040: QiE_B_ArmL02
+    100042: QiE_B_ArmR00
+    100044: QiE_B_ArmR02
+    100046: QiE_B_Body00
+    100048: QiE_B_Body01
+    100050: QiE_B_Body02
+    100052: QiE_B_Body03
+    100054: QiE_B_BodyF00
+    100056: QiE_B_BodyF01
+    100058: QiE_B_BodyF02
+    100060: QiE_B_BodyF03
+    100062: QiE_B_BodyFSide00
+    100064: QiE_B_BodyFSide01
+    100066: QiE_B_BodyFSide02
+    100068: QiE_B_BodyFSide03
+    100070: QiE_B_BodyFSide04
+    100072: QiE_B_BodyFSide05
+    100074: QiE_B_BodySide00
+    100076: QiE_B_BodySide01
+    100078: QiE_B_BodySide02
+    100080: QiE_B_BodySide03
+    100082: QiE_B_BodySide04
+    100084: QiE_B_BodySide05
+    100086: QiE_B_EyeL
+    100088: QiE_B_EyeLIris
+    100090: QiE_B_EyeLLids00
+    100092: QiE_B_EyeLLids01
+    100094: QiE_B_EyeR
+    100096: QiE_B_EyeRIris
+    100098: QiE_B_EyeRLids00
+    100100: QiE_B_EyeRLids01
+    100102: QiE_B_FootL01
+    100104: QiE_B_FootL02
+    100106: QiE_B_FootL03
+    100108: QiE_B_FootR01
+    100110: QiE_B_FootR02
+    100112: QiE_B_FootR03
+    100114: QiE_B_Mouth00
+    100116: QiE_B_Mouth01
+    100118: QiE_B_Mouth02
+    100120: QiE_B_Mouth03
+    100122: QiE_B_Mouth04
+    100124: QiE_B_Mouth05
+    100126: QiE_B_MouthRoot
+    100128: QiE_B_Oral
+    100130: QiE_B_Root
+    100132: QiE_B_Shadow
+    100134: QiE_B_Tail
+    100136: QiE_B_TG00
+    100138: QiE_B_TG01
+    100140: QiE_B_TG02
+    100142: QiE_B_Tooth
+    100144: QiE_BodyBackup
+    100146: QiE_Shadow
+    100148: QiE_Help_Eye
+    100150: QiE_Help_Mouth
+    100152: Bone02
+    100154: Bone03
+    100156: Bone04
+    100158: Bone05
+    100160: Bone07
+    100162: Bone10
+    100164: Bone12
+    100166: Bone13
+    100168: Bone14
+    100170: Bone16
+    100172: Bone18
+    100174: Bone20
+    100176: Bone22
+    100178: Bone23
+    100180: Bone24
+    100182: Bone25
+    100184: Bone26
+    100186: Bone27
+    100188: Bone29
+    100190: Bone30
+    100192: Bone31
+    100194: Bone33
+    100196: QiE_B_00
+    100198: QiE_B_01
+    100200: QiE_B_02
+    100202: QiE_B_03
+    100204: QiE_B_04
+    100206: QiE_B_05
+    100208: QiE_B_09
+    100210: QiE_B_10
+    100212: QiE_B_11
+    100214: QiE_B_12
+    100216: QiE_B_13
+    100218: QiE_B_14
+    100220: QiE_B_16
+    100222: QiE_B_17
+    100224: QiE_B_18
+    100226: QiE_B_19
+    100228: QiE_B_20
+    100230: QiE_B_21
+    100232: QiE_B_22
+    100234: QiE_B_23
+    100236: QiE_B_24
+    100238: QiE_B_25
+    100240: QiE_B_26
+    100242: QiE_B_27
+    100244: QiE_B_31
+    100246: QiE_B_38
+    100248: QiE_B_40
+    100250: QiE_B_41
+    100252: QiE_B_42
+    100254: QiE_B_43
+    100256: QiE_B_ShadowEnd
+    100258: Bip01
+    100260: Bip01 Head
+    100262: Bip01 L Calf
+    100264: Bip01 L Clavicle
+    100266: Bip01 L Foot
+    100268: Bip01 L Forearm
+    100270: Bip01 L Hand
+    100272: Bip01 L Thigh
+    100274: Bip01 L Toe0
+    100276: Bip01 L UpperArm
+    100278: Bip01 Neck
+    100280: Bip01 Pelvis
+    100282: Bip01 R Calf
+    100284: Bip01 R Clavicle
+    100286: Bip01 R Foot
+    100288: Bip01 R Forearm
+    100290: Bip01 R Hand
+    100292: Bip01 R Thigh
+    100294: Bip01 R Toe0
+    100296: Bip01 R UpperArm
+    100298: Bip01 Spine
+    100300: Bip01 Spine1
+    100302: Bone28
+    100304: Bone32
+    100306: Bone34
+    100308: Bone35
+    100310: Bone36
+    100312: Bone37
+    100314: Bone38
+    100316: Bone39
+    100318: Bone40
+    100320: Bone41
+    100322: Bone42
+    100324: Help_tou
+    100326: Help_xiong
+    100328: Help_ys
+    100330: Help_zs
+    100332: Root
+    100334: Root_ys
+    100336: v_shenti
+    100338: Bone43
+    100340: Bone44
+    100342: Bone45
+    100344: Bone46
+    100346: Bone47
+    100348: Bone48
+    100350: Bone51
+    100352: Bone53
+    100354: Root_tou
+    100356: Root_zs
+    100358: body
+    100360: Bone57
+    100362: Bone57(mirrored)
+    100364: Bone59
+    100366: Bone59(mirrored)
+    100368: Bone61
+    100370: Bone61(mirrored)
+    100372: Bone63
+    100374: Bone63(mirrored)
+    100376: Bone70
+    100378: Bone72
+    100380: Bone74
+    100382: Bone76
+    100384: Bone78
+    100386: Bone80
+    100388: Bone80(mirrored)
+    100390: Bone81
+    100392: Bone81(mirrored)
+    100394: Bone82
+    100396: Bone82(mirrored)
+    100398: Bone_Help_Fire
+    100400: Bone_Help_Guo
+    100402: Bone_Help_Tou
+    100404: Bone_Help_Xiong
+    100406: Bone_Help_Ys
+    100408: Bone_Help_Zs
+    100410: root
+    100412: toujing
+    100414: weapon
+    100416: yanjing
+    400000: Bone01
+    400002: Bone06
+    400004: Bone08
+    400006: Bone09
+    400008: Bone11
+    400010: Bone15
+    400012: Bone17
+    400014: Bone19
+    400016: Bone21
+    400018: Bone_Eye01Root
+    400020: Bone_Mouth01Root
+    400022: //RootNode
+    400024: QiE01_qiang01
+    400026: QiE01_toujing01
+    400028: QiE01_toujing02
+    400030: QiE01_toujing03
+    400032: QiE01_toujing04
+    400034: QiE01_toujing05
+    400036: QiE01_toujing06
+    400038: QiE_B_ArmL00
+    400040: QiE_B_ArmL02
+    400042: QiE_B_ArmR00
+    400044: QiE_B_ArmR02
+    400046: QiE_B_Body00
+    400048: QiE_B_Body01
+    400050: QiE_B_Body02
+    400052: QiE_B_Body03
+    400054: QiE_B_BodyF00
+    400056: QiE_B_BodyF01
+    400058: QiE_B_BodyF02
+    400060: QiE_B_BodyF03
+    400062: QiE_B_BodyFSide00
+    400064: QiE_B_BodyFSide01
+    400066: QiE_B_BodyFSide02
+    400068: QiE_B_BodyFSide03
+    400070: QiE_B_BodyFSide04
+    400072: QiE_B_BodyFSide05
+    400074: QiE_B_BodySide00
+    400076: QiE_B_BodySide01
+    400078: QiE_B_BodySide02
+    400080: QiE_B_BodySide03
+    400082: QiE_B_BodySide04
+    400084: QiE_B_BodySide05
+    400086: QiE_B_EyeL
+    400088: QiE_B_EyeLIris
+    400090: QiE_B_EyeLLids00
+    400092: QiE_B_EyeLLids01
+    400094: QiE_B_EyeR
+    400096: QiE_B_EyeRIris
+    400098: QiE_B_EyeRLids00
+    400100: QiE_B_EyeRLids01
+    400102: QiE_B_FootL01
+    400104: QiE_B_FootL02
+    400106: QiE_B_FootL03
+    400108: QiE_B_FootR01
+    400110: QiE_B_FootR02
+    400112: QiE_B_FootR03
+    400114: QiE_B_Mouth00
+    400116: QiE_B_Mouth01
+    400118: QiE_B_Mouth02
+    400120: QiE_B_Mouth03
+    400122: QiE_B_Mouth04
+    400124: QiE_B_Mouth05
+    400126: QiE_B_MouthRoot
+    400128: QiE_B_Oral
+    400130: QiE_B_Root
+    400132: QiE_B_Shadow
+    400134: QiE_B_Tail
+    400136: QiE_B_TG00
+    400138: QiE_B_TG01
+    400140: QiE_B_TG02
+    400142: QiE_B_Tooth
+    400144: QiE_BodyBackup
+    400146: QiE_Shadow
+    400148: QiE_Help_Eye
+    400150: QiE_Help_Mouth
+    400152: Bone02
+    400154: Bone03
+    400156: Bone04
+    400158: Bone05
+    400160: Bone07
+    400162: Bone10
+    400164: Bone12
+    400166: Bone13
+    400168: Bone14
+    400170: Bone16
+    400172: Bone18
+    400174: Bone20
+    400176: Bone22
+    400178: Bone23
+    400180: Bone24
+    400182: Bone25
+    400184: Bone26
+    400186: Bone27
+    400188: Bone29
+    400190: Bone30
+    400192: Bone31
+    400194: Bone33
+    400196: QiE_B_00
+    400198: QiE_B_01
+    400200: QiE_B_02
+    400202: QiE_B_03
+    400204: QiE_B_04
+    400206: QiE_B_05
+    400208: QiE_B_09
+    400210: QiE_B_10
+    400212: QiE_B_11
+    400214: QiE_B_12
+    400216: QiE_B_13
+    400218: QiE_B_14
+    400220: QiE_B_16
+    400222: QiE_B_17
+    400224: QiE_B_18
+    400226: QiE_B_19
+    400228: QiE_B_20
+    400230: QiE_B_21
+    400232: QiE_B_22
+    400234: QiE_B_23
+    400236: QiE_B_24
+    400238: QiE_B_25
+    400240: QiE_B_26
+    400242: QiE_B_27
+    400244: QiE_B_31
+    400246: QiE_B_38
+    400248: QiE_B_40
+    400250: QiE_B_41
+    400252: QiE_B_42
+    400254: QiE_B_43
+    400256: QiE_B_ShadowEnd
+    400258: Bip01
+    400260: Bip01 Head
+    400262: Bip01 L Calf
+    400264: Bip01 L Clavicle
+    400266: Bip01 L Foot
+    400268: Bip01 L Forearm
+    400270: Bip01 L Hand
+    400272: Bip01 L Thigh
+    400274: Bip01 L Toe0
+    400276: Bip01 L UpperArm
+    400278: Bip01 Neck
+    400280: Bip01 Pelvis
+    400282: Bip01 R Calf
+    400284: Bip01 R Clavicle
+    400286: Bip01 R Foot
+    400288: Bip01 R Forearm
+    400290: Bip01 R Hand
+    400292: Bip01 R Thigh
+    400294: Bip01 R Toe0
+    400296: Bip01 R UpperArm
+    400298: Bip01 Spine
+    400300: Bip01 Spine1
+    400302: Bone28
+    400304: Bone32
+    400306: Bone34
+    400308: Bone35
+    400310: Bone36
+    400312: Bone37
+    400314: Bone38
+    400316: Bone39
+    400318: Bone40
+    400320: Bone41
+    400322: Bone42
+    400324: Help_tou
+    400326: Help_xiong
+    400328: Help_ys
+    400330: Help_zs
+    400332: Root
+    400334: Root_ys
+    400336: v_shenti
+    400338: Bone43
+    400340: Bone44
+    400342: Bone45
+    400344: Bone46
+    400346: Bone47
+    400348: Bone48
+    400350: Bone51
+    400352: Bone53
+    400354: Root_tou
+    400356: Root_zs
+    400358: body
+    400360: Bone57
+    400362: Bone57(mirrored)
+    400364: Bone59
+    400366: Bone59(mirrored)
+    400368: Bone61
+    400370: Bone61(mirrored)
+    400372: Bone63
+    400374: Bone63(mirrored)
+    400376: Bone70
+    400378: Bone72
+    400380: Bone74
+    400382: Bone76
+    400384: Bone78
+    400386: Bone80
+    400388: Bone80(mirrored)
+    400390: Bone81
+    400392: Bone81(mirrored)
+    400394: Bone82
+    400396: Bone82(mirrored)
+    400398: Bone_Help_Fire
+    400400: Bone_Help_Guo
+    400402: Bone_Help_Tou
+    400404: Bone_Help_Xiong
+    400406: Bone_Help_Ys
+    400408: Bone_Help_Zs
+    400410: root
+    400412: toujing
+    400414: weapon
+    400416: yanjing
+    2300000: QiE_Shadow
+    3300000: QiE_Shadow
+    4300000: QiE_BodyBackup
+    4300002: QiE_Shadow
+    4300004: v_shenti
+    4300006: body
+    4300008: toujing
+    4300010: weapon
+    4300012: yanjing
+    9500000: //RootNode
+    13700000: QiE_BodyBackup
+    13700002: v_shenti
+    13700004: body
+    13700006: toujing
+    13700008: weapon
+    13700010: yanjing
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .0799999982
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

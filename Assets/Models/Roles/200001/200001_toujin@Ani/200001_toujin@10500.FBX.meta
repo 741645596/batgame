@@ -1,0 +1,213 @@
+fileFormatVersion: 2
+guid: 5e3ba7d4f2661f148a7e342d9aa1b656
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Bone11
+    100004: Bone43
+    100006: Bone44
+    100008: Bone45
+    100010: Bone46
+    100012: Bone47
+    100014: Bone48
+    100016: Root_tou
+    400000: //RootNode
+    400002: Bone11
+    400004: Bone43
+    400006: Bone44
+    400008: Bone45
+    400010: Bone46
+    400012: Bone47
+    400014: Bone48
+    400016: Root_tou
+    7400000: 200001_toujin@10500
+    7400002: 200001_toujin@10501
+    7400004: 200001_toujin@10502
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: 200001_toujin@10500
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 7
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Root_tou
+        weight: 1
+      - path: Root_tou/Bone11
+        weight: 1
+      - path: Root_tou/Bone11/Bone43
+        weight: 1
+      - path: Root_tou/Bone11/Bone43/Bone45
+        weight: 1
+      - path: Root_tou/Bone11/Bone43/Bone45/Bone47
+        weight: 1
+      - path: Root_tou/Bone11/Bone44
+        weight: 1
+      - path: Root_tou/Bone11/Bone44/Bone46
+        weight: 1
+      - path: Root_tou/Bone11/Bone44/Bone46/Bone48
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: 200001_toujin@10501
+      takeName: Take 001
+      firstFrame: 7
+      lastFrame: 22
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Root_tou
+        weight: 1
+      - path: Root_tou/Bone11
+        weight: 1
+      - path: Root_tou/Bone11/Bone43
+        weight: 1
+      - path: Root_tou/Bone11/Bone43/Bone45
+        weight: 1
+      - path: Root_tou/Bone11/Bone43/Bone45/Bone47
+        weight: 1
+      - path: Root_tou/Bone11/Bone44
+        weight: 1
+      - path: Root_tou/Bone11/Bone44/Bone46
+        weight: 1
+      - path: Root_tou/Bone11/Bone44/Bone46/Bone48
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: 200001_toujin@10502
+      takeName: Take 001
+      firstFrame: 22
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Root_tou
+        weight: 1
+      - path: Root_tou/Bone11
+        weight: 1
+      - path: Root_tou/Bone11/Bone43
+        weight: 1
+      - path: Root_tou/Bone11/Bone43/Bone45
+        weight: 1
+      - path: Root_tou/Bone11/Bone43/Bone45/Bone47
+        weight: 1
+      - path: Root_tou/Bone11/Bone44
+        weight: 1
+      - path: Root_tou/Bone11/Bone44/Bone46
+        weight: 1
+      - path: Root_tou/Bone11/Bone44/Bone46/Bone48
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .100000001
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

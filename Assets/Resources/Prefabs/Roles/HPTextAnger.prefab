@@ -1,0 +1,110 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &100000
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 400000}
+  - 114: {fileID: 11400000}
+  m_Layer: 0
+  m_Name: HPTextAnger
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &400000
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100000}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100000}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ebbf080627224a44786e958729eb7601, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  font: {fileID: 0}
+  bTopRank: 0
+  bitmapFont: {fileID: 0}
+  trueTypeFont: {fileID: 12800000, guid: e1d547e872e251442beee10e42b08721, type: 3}
+  fontSize: 16
+  fontStyle: 0
+  applyGradient: 0
+  gradientTop: {r: .933823526, g: .76775372, b: .590506077, a: 1}
+  gradienBottom: {r: .970588207, g: .689676464, b: .613754332, a: 1}
+  effect: 2
+  effectColor: {r: 0, g: 0, b: 0, a: 1}
+  offsetCurve:
+    serializedVersion: 2
+    m_Curve:
+    - time: .00236775633
+      value: .0578279495
+      inSlope: 0
+      outSlope: 83.8381042
+      tangentMode: 21
+    - time: .598298907
+      value: 50.0195656
+      inSlope: 83.8381042
+      outSlope: 4.52041626
+      tangentMode: 5
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+  alphaCurve:
+    serializedVersion: 2
+    m_Curve:
+    - time: .352063566
+      value: 1.00115061
+      inSlope: 0
+      outSlope: -3.46702504
+      tangentMode: 1
+    - time: .600030363
+      value: .000244827941
+      inSlope: -.739108086
+      outSlope: 0
+      tangentMode: 17
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+  scaleCurve:
+    serializedVersion: 2
+    m_Curve:
+    - time: .000272757286
+      value: -.360370815
+      inSlope: 11.4854574
+      outSlope: 11.4854574
+      tangentMode: 0
+    - time: .248622715
+      value: 1.00005674
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+  m_ScreenScale: 0
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 100000}
+  m_IsPrefabParent: 1
+  m_IsExploded: 1

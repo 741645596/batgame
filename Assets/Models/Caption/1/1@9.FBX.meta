@@ -1,0 +1,425 @@
+fileFormatVersion: 2
+guid: 4a1d9b58adb63dd4faca4f274a312468
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: bip01
+    100004: Bone01
+    100006: Bone02
+    100008: Bone03
+    100010: Bone05
+    100012: Bone07
+    100014: Bone09
+    100016: Bone10
+    100018: Bone100
+    100020: Bone102
+    100022: Bone104
+    100024: Bone106
+    100026: Bone108
+    100028: Bone112
+    100030: Bone114
+    100032: Bone116
+    100034: Bone118
+    100036: Bone12
+    100038: Bone122
+    100040: Bone124
+    100042: Bone126
+    100044: Bone13
+    100046: Bone15
+    100048: Bone16
+    100050: Bone18
+    100052: Bone19
+    100054: Bone21
+    100056: Bone22
+    100058: Bone24
+    100060: Bone26
+    100062: Bone28
+    100064: Bone29
+    100066: Bone31
+    100068: Bone32
+    100070: Bone34
+    100072: Bone35
+    100074: Bone37
+    100076: Bone38
+    100078: Bone40
+    100080: Bone41
+    100082: Bone43
+    100084: Bone44
+    100086: Bone45
+    100088: Bone47
+    100090: Bone48
+    100092: Bone49
+    100094: Bone51
+    100096: Bone52
+    100098: Bone53
+    100100: Bone56
+    100102: Bone57
+    100104: Bone58
+    100106: Bone60
+    100108: Bone61
+    100110: Bone63
+    100112: Bone64
+    100114: Bone66
+    100116: Bone68
+    100118: Bone70
+    100120: Bone72
+    100122: Bone74
+    100124: Bone76
+    100126: Bone78
+    100128: Bone80
+    100130: Bone84
+    100132: Bone87
+    100134: Bone88
+    100136: Bone90
+    100138: Bone92
+    100140: Bone94
+    100142: Bone96
+    100144: Bone98
+    100146: root
+    100148: youbi
+    100150: zui1
+    400000: //RootNode
+    400002: bip01
+    400004: Bone01
+    400006: Bone02
+    400008: Bone03
+    400010: Bone05
+    400012: Bone07
+    400014: Bone09
+    400016: Bone10
+    400018: Bone100
+    400020: Bone102
+    400022: Bone104
+    400024: Bone106
+    400026: Bone108
+    400028: Bone112
+    400030: Bone114
+    400032: Bone116
+    400034: Bone118
+    400036: Bone12
+    400038: Bone122
+    400040: Bone124
+    400042: Bone126
+    400044: Bone13
+    400046: Bone15
+    400048: Bone16
+    400050: Bone18
+    400052: Bone19
+    400054: Bone21
+    400056: Bone22
+    400058: Bone24
+    400060: Bone26
+    400062: Bone28
+    400064: Bone29
+    400066: Bone31
+    400068: Bone32
+    400070: Bone34
+    400072: Bone35
+    400074: Bone37
+    400076: Bone38
+    400078: Bone40
+    400080: Bone41
+    400082: Bone43
+    400084: Bone44
+    400086: Bone45
+    400088: Bone47
+    400090: Bone48
+    400092: Bone49
+    400094: Bone51
+    400096: Bone52
+    400098: Bone53
+    400100: Bone56
+    400102: Bone57
+    400104: Bone58
+    400106: Bone60
+    400108: Bone61
+    400110: Bone63
+    400112: Bone64
+    400114: Bone66
+    400116: Bone68
+    400118: Bone70
+    400120: Bone72
+    400122: Bone74
+    400124: Bone76
+    400126: Bone78
+    400128: Bone80
+    400130: Bone84
+    400132: Bone87
+    400134: Bone88
+    400136: Bone90
+    400138: Bone92
+    400140: Bone94
+    400142: Bone96
+    400144: Bone98
+    400146: root
+    400148: youbi
+    400150: zui1
+    7400000: 1@9
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: 1@9
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: root
+        weight: 1
+      - path: root/bip01
+        weight: 1
+      - path: root/bip01/Bone01
+        weight: 1
+      - path: root/bip01/Bone01/Bone02
+        weight: 1
+      - path: root/bip01/Bone01/Bone02/Bone03
+        weight: 1
+      - path: root/bip01/Bone05
+        weight: 1
+      - path: root/bip01/Bone05/Bone07
+        weight: 1
+      - path: root/bip01/Bone05/Bone09
+        weight: 1
+      - path: root/bip01/Bone05/Bone09/Bone10
+        weight: 1
+      - path: root/bip01/Bone05/Bone12
+        weight: 1
+      - path: root/bip01/Bone05/Bone12/Bone13
+        weight: 1
+      - path: root/bip01/Bone05/Bone15
+        weight: 1
+      - path: root/bip01/Bone05/Bone15/Bone16
+        weight: 1
+      - path: root/bip01/Bone05/Bone18
+        weight: 1
+      - path: root/bip01/Bone05/Bone18/Bone19
+        weight: 1
+      - path: root/bip01/Bone05/Bone21
+        weight: 1
+      - path: root/bip01/Bone05/Bone21/Bone22
+        weight: 1
+      - path: root/bip01/Bone24
+        weight: 1
+      - path: root/bip01/Bone24/Bone26
+        weight: 1
+      - path: root/bip01/Bone24/Bone28
+        weight: 1
+      - path: root/bip01/Bone24/Bone28/Bone29
+        weight: 1
+      - path: root/bip01/Bone24/Bone31
+        weight: 1
+      - path: root/bip01/Bone24/Bone31/Bone32
+        weight: 1
+      - path: root/bip01/Bone24/Bone34
+        weight: 1
+      - path: root/bip01/Bone24/Bone34/Bone35
+        weight: 1
+      - path: root/bip01/Bone24/Bone37
+        weight: 1
+      - path: root/bip01/Bone24/Bone37/Bone38
+        weight: 1
+      - path: root/bip01/Bone24/Bone40
+        weight: 1
+      - path: root/bip01/Bone24/Bone40/Bone41
+        weight: 1
+      - path: root/bip01/Bone112
+        weight: 1
+      - path: root/bip01/Bone112/Bone108
+        weight: 1
+      - path: root/bip01/Bone114
+        weight: 1
+      - path: root/bip01/Bone114/Bone106
+        weight: 1
+      - path: root/bip01/Bone116
+        weight: 1
+      - path: root/bip01/Bone116/Bone43
+        weight: 1
+      - path: root/bip01/Bone116/Bone43/Bone44
+        weight: 1
+      - path: root/bip01/Bone116/Bone43/Bone44/Bone45
+        weight: 1
+      - path: root/bip01/Bone116/Bone47
+        weight: 1
+      - path: root/bip01/Bone116/Bone47/Bone48
+        weight: 1
+      - path: root/bip01/Bone116/Bone47/Bone48/Bone49
+        weight: 1
+      - path: root/bip01/Bone116/Bone51
+        weight: 1
+      - path: root/bip01/Bone116/Bone51/Bone52
+        weight: 1
+      - path: root/bip01/Bone116/Bone51/Bone52/Bone53
+        weight: 1
+      - path: root/bip01/Bone116/Bone51/Bone63
+        weight: 1
+      - path: root/bip01/Bone116/Bone51/Bone63/Bone64
+        weight: 1
+      - path: root/bip01/Bone116/Bone56
+        weight: 1
+      - path: root/bip01/Bone116/Bone56/Bone57
+        weight: 1
+      - path: root/bip01/Bone116/Bone56/Bone57/Bone58
+        weight: 1
+      - path: root/bip01/Bone116/Bone56/Bone60
+        weight: 1
+      - path: root/bip01/Bone116/Bone56/Bone60/Bone61
+        weight: 1
+      - path: root/bip01/Bone116/Bone66
+        weight: 1
+      - path: root/bip01/Bone116/Bone68
+        weight: 1
+      - path: root/bip01/Bone116/Bone70
+        weight: 1
+      - path: root/bip01/Bone116/Bone72
+        weight: 1
+      - path: root/bip01/Bone116/Bone74
+        weight: 1
+      - path: root/bip01/Bone116/Bone76
+        weight: 1
+      - path: root/bip01/Bone116/Bone118
+        weight: 1
+      - path: root/bip01/Bone122
+        weight: 1
+      - path: root/bip01/Bone122/Bone94
+        weight: 1
+      - path: root/bip01/Bone122/Bone96
+        weight: 1
+      - path: root/bip01/Bone122/Bone100
+        weight: 1
+      - path: root/bip01/Bone122/Bone100/Bone98
+        weight: 1
+      - path: root/bip01/Bone122/Bone104
+        weight: 1
+      - path: root/bip01/Bone122/Bone104/Bone102
+        weight: 1
+      - path: root/bip01/Bone122/Bone124
+        weight: 1
+      - path: root/bip01/Bone122/Bone124/Bone90
+        weight: 1
+      - path: root/bip01/Bone122/Bone126
+        weight: 1
+      - path: root/bip01/Bone122/Bone126/Bone92
+        weight: 1
+      - path: root/bip01/youbi
+        weight: 1
+      - path: root/bip01/youbi/Bone87
+        weight: 1
+      - path: root/bip01/youbi/Bone87/Bone88
+        weight: 1
+      - path: root/bip01/zui1
+        weight: 1
+      - path: root/bip01/zui1/Bone78
+        weight: 1
+      - path: root/bip01/zui1/Bone80
+        weight: 1
+      - path: root/bip01/zui1/Bone84
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+    previousCalculatedGlobalScale: 0.1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

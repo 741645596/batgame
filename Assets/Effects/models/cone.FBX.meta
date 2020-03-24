@@ -1,0 +1,152 @@
+fileFormatVersion: 2
+guid: bd91b985a504b4344b45c39bbd13c155
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: cone_01
+    100004: cone_02
+    100006: cone_03
+    100008: cone_04
+    100010: cone_05 z up
+    100012: cone_05
+    100014: cone_05 Z up
+    100016: cone_06 Z up
+    100018: cone_06
+    100020: cone_07 Z up
+    100022: cone_08 Z up
+    100024: cone_09 Y down
+    100026: cone_09 X up
+    100028: cone_09 X up  xx
+    100030: 'cone_09 X up '
+    100032: 'cone_09 Y up '
+    100034: cone_10 Y up
+    100036: cone_10 Z up
+    400000: //RootNode
+    400002: cone_01
+    400004: cone_02
+    400006: cone_03
+    400008: cone_04
+    400010: cone_05 z up
+    400012: cone_05
+    400014: cone_05 Z up
+    400016: cone_06 Z up
+    400018: cone_06
+    400020: cone_07 Z up
+    400022: cone_08 Z up
+    400024: cone_09 Y down
+    400026: cone_09 X up
+    400028: cone_09 X up  xx
+    400030: 'cone_09 X up '
+    400032: 'cone_09 Y up '
+    400034: cone_10 Y up
+    400036: cone_10 Z up
+    2300000: cone_01
+    2300002: cone_02
+    2300004: cone_03
+    2300006: cone_04
+    2300008: cone_05 z up
+    2300010: cone_05
+    2300012: cone_05 Z up
+    2300014: cone_06 Z up
+    2300016: cone_06
+    2300018: cone_07 Z up
+    2300020: cone_08 Z up
+    2300022: cone_09 Y down
+    2300024: cone_09 X up
+    2300026: cone_09 X up  xx
+    2300028: 'cone_09 X up '
+    2300030: 'cone_09 Y up '
+    2300032: cone_10 Y up
+    2300034: cone_10 Z up
+    3300000: cone_01
+    3300002: cone_02
+    3300004: cone_03
+    3300006: cone_04
+    3300008: cone_05 z up
+    3300010: cone_05
+    3300012: cone_05 Z up
+    3300014: cone_06 Z up
+    3300016: cone_06
+    3300018: cone_07 Z up
+    3300020: cone_08 Z up
+    3300022: cone_09 Y down
+    3300024: cone_09 X up
+    3300026: cone_09 X up  xx
+    3300028: 'cone_09 X up '
+    3300030: 'cone_09 Y up '
+    3300032: cone_10 Y up
+    3300034: cone_10 Z up
+    4300000: cone_01
+    4300002: cone_02
+    4300004: cone_03
+    4300006: cone_04
+    4300008: cone_05 z up
+    4300010: cone_05
+    4300012: cone_05 Z up
+    4300014: cone_06 Z up
+    4300016: cone_06
+    4300018: cone_07 Z up
+    4300020: cone_08 Z up
+    4300022: cone_09 Y down
+    4300024: cone_09 X up
+    4300026: cone_09 X up  xx
+    4300028: 'cone_09 X up '
+    4300030: 'cone_09 Y up '
+    4300032: cone_10 Y up
+    4300034: cone_10 Z up
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

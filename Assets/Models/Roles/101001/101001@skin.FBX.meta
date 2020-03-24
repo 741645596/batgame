@@ -1,0 +1,612 @@
+fileFormatVersion: 2
+guid: 54192326821d98a45a401176bc8b4b01
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Bip01
+    100002: Bip01 Head
+    100004: Bip01 L Calf
+    100006: Bip01 L Clavicle
+    100008: Bip01 L Finger0
+    100010: Bip01 L Finger01
+    100012: Bip01 L Finger1
+    100014: Bip01 L Finger11
+    100016: Bip01 L Finger2
+    100018: Bip01 L Finger21
+    100020: Bip01 L Finger3
+    100022: Bip01 L Finger31
+    100024: Bip01 L Foot
+    100026: Bip01 L Forearm
+    100028: Bip01 L Hand
+    100030: Bip01 L Thigh
+    100032: Bip01 L Toe0
+    100034: Bip01 L UpperArm
+    100036: Bip01 Neck
+    100038: Bip01 Pelvis
+    100040: Bip01 R Calf
+    100042: Bip01 R Clavicle
+    100044: Bip01 R Finger0
+    100046: Bip01 R Finger01
+    100048: Bip01 R Finger1
+    100050: Bip01 R Finger11
+    100052: Bip01 R Finger2
+    100054: Bip01 R Finger21
+    100056: Bip01 R Finger3
+    100058: Bip01 R Finger31
+    100060: Bip01 R Foot
+    100062: Bip01 R Forearm
+    100064: Bip01 R Hand
+    100066: Bip01 R Thigh
+    100068: Bip01 R Toe0
+    100070: Bip01 R UpperArm
+    100072: Bip01 Spine
+    100074: Bip01 Spine1
+    100076: Bip01 Spine2
+    100078: Bip01 Spine3
+    100080: Bip01 Spine4
+    100082: Bip01 Spine5
+    100084: Bone01
+    100086: Bone02
+    100088: Bone03
+    100090: Bone04
+    100092: Bone05
+    100094: Bone07
+    100096: Bone08
+    100098: Bone09
+    100100: Bone10
+    100102: Bone101
+    100104: Bone102
+    100106: Bone104
+    100108: Bone107
+    100110: Bone109
+    100112: Bone11
+    100114: Bone111
+    100116: Bone113
+    100118: Bone115
+    100120: Bone116
+    100122: Bone117
+    100124: Bone118
+    100126: Bone119
+    100128: Bone120
+    100130: Bone121
+    100132: Bone122
+    100134: Bone124
+    100136: Bone126
+    100138: Bone128
+    100140: Bone129
+    100142: Bone13
+    100144: Bone131
+    100146: Bone134
+    100148: Bone136
+    100150: Bone138
+    100152: Bone139
+    100154: Bone14
+    100156: Bone141
+    100158: Bone143
+    100160: Bone145
+    100162: Bone147
+    100164: Bone15
+    100166: Bone150
+    100168: Bone152
+    100170: Bone154
+    100172: Bone156
+    100174: Bone157
+    100176: Bone159
+    100178: Bone16
+    100180: Bone18
+    100182: Bone19
+    100184: Bone20
+    100186: Bone21
+    100188: Bone23
+    100190: Bone24
+    100192: Bone26
+    100194: Bone27
+    100196: Bone28
+    100198: Bone30
+    100200: Bone31
+    100202: Bone33
+    100204: Bone34
+    100206: Bone36
+    100208: Bone37
+    100210: Bone39
+    100212: Bone40
+    100214: Bone41
+    100216: Bone43
+    100218: Bone44
+    100220: Bone46
+    100222: Bone47
+    100224: Bone49
+    100226: Bone51
+    100228: Bone53
+    100230: Bone55
+    100232: Bone57
+    100234: Bone59
+    100236: Bone61
+    100238: Bone63
+    100240: Bone65
+    100242: Bone67
+    100244: Bone70
+    100246: Bone72
+    100248: Bone73
+    100250: Bone75
+    100252: Bone77
+    100254: Bone79
+    100256: Bone80
+    100258: Bone81
+    100260: Bone82
+    100262: Bone84
+    100264: Bone86
+    100266: Bone88
+    100268: Bone90
+    100270: Bone92
+    100272: Bone94
+    100274: Bone96
+    100276: Bone99
+    100278: //RootNode
+    100280: Mao01_Body
+    100282: mao01_root
+    100284: help_toujin
+    100286: mao01
+    100288: mao01_000
+    100290: mao01_001
+    100292: mao01_002
+    100294: mao01_003
+    100296: mao01_004
+    100298: mao01_005
+    100300: mao01_006
+    100302: mao01_007
+    100304: mao01_008
+    100306: mao01_009
+    100308: mao01_010
+    100310: mao01_011
+    100312: mao01_012
+    100314: mao01_013
+    100316: mao01_014
+    100318: mao01_015
+    100320: mao01_016
+    100322: mao01_017
+    100324: mao01_018
+    100326: mao01_019
+    100328: mao01_020
+    100330: mao01_021
+    100332: mao01_022
+    100334: mao01_023
+    100336: mao01_024
+    100338: mao01_025
+    100340: mao01_026
+    100342: mao01_027
+    100344: mao01_028
+    100346: mao01_029
+    100348: mao01_030
+    100350: mao01_031
+    100352: mao01_032
+    100354: mao01_033
+    100356: mao01_034
+    100358: mao01_035
+    100360: mao01_036
+    100362: mao01_037
+    100364: mao01_038
+    100366: mao01_039
+    100368: mao01_040
+    100370: mao01_041
+    100372: mao01_042
+    100374: mao01_043
+    100376: mao01_044
+    100378: mao01_045
+    100380: mao01_046
+    100382: mao01_047
+    100384: mao01_048
+    100386: mao01_049
+    100388: mao01_050
+    100390: mao01_051
+    100392: mao01_052
+    100394: mao01_053
+    100396: mao01_054
+    100398: mao01_055
+    100400: mao01_056
+    100402: mao01_057
+    100404: mao01_058
+    100406: mao01_059
+    100408: mao01_060
+    100410: mao01_061
+    100412: mao01_062
+    100414: mao01_063
+    100416: mao01_064
+    100418: mao01_065
+    100420: mao01_066
+    100422: mao01_067
+    100424: mao01_068
+    100426: mao01_069
+    100428: mao01_070
+    100430: mao01_071
+    100432: mao01_072
+    100434: mao01_073
+    100436: mao01_074
+    100438: mao01_075
+    100440: mao01_076
+    100442: mao01_077
+    100444: mao01_078
+    100446: mao01_079
+    100448: mao01_080
+    100450: mao01_081
+    100452: mao01_082
+    100454: mao01_083
+    100456: mao01_084
+    100458: mao01_085
+    100460: mao01_086
+    100462: mao01_087
+    100464: mao01_088
+    100466: body
+    100468: Bone01_m
+    100470: Bone02_m
+    100472: Bone03_m
+    100474: Bone04_m
+    100476: Bone05_m
+    100478: Bone12
+    100480: Bone17
+    100482: Bone22
+    100484: Bone25
+    100486: Bone30_m
+    100488: Bone31_m
+    100490: Bone32
+    100492: Bone32_m
+    100494: Bone34_m
+    100496: Bone35
+    100498: Bone35_m
+    100500: Bone37_m
+    100502: Bone38
+    100504: Bone38_m
+    100506: Bone40_m
+    100508: Bone41_m
+    100510: Bone43_m
+    100512: Bone45
+    100514: Bone45_m
+    100516: Bone46_m
+    100518: Bone48
+    100520: Bone48_m
+    100522: Bone49_m
+    100524: Bone52
+    100526: Bone54
+    100528: Bone56
+    100530: Bone58
+    100532: Bone60
+    100534: Help_Tou
+    100536: Help_Wq
+    100538: Help_Xiong
+    100540: Help_Ys
+    100542: Help_Zs
+    100544: root
+    400000: Bip01
+    400002: Bip01 Head
+    400004: Bip01 L Calf
+    400006: Bip01 L Clavicle
+    400008: Bip01 L Finger0
+    400010: Bip01 L Finger01
+    400012: Bip01 L Finger1
+    400014: Bip01 L Finger11
+    400016: Bip01 L Finger2
+    400018: Bip01 L Finger21
+    400020: Bip01 L Finger3
+    400022: Bip01 L Finger31
+    400024: Bip01 L Foot
+    400026: Bip01 L Forearm
+    400028: Bip01 L Hand
+    400030: Bip01 L Thigh
+    400032: Bip01 L Toe0
+    400034: Bip01 L UpperArm
+    400036: Bip01 Neck
+    400038: Bip01 Pelvis
+    400040: Bip01 R Calf
+    400042: Bip01 R Clavicle
+    400044: Bip01 R Finger0
+    400046: Bip01 R Finger01
+    400048: Bip01 R Finger1
+    400050: Bip01 R Finger11
+    400052: Bip01 R Finger2
+    400054: Bip01 R Finger21
+    400056: Bip01 R Finger3
+    400058: Bip01 R Finger31
+    400060: Bip01 R Foot
+    400062: Bip01 R Forearm
+    400064: Bip01 R Hand
+    400066: Bip01 R Thigh
+    400068: Bip01 R Toe0
+    400070: Bip01 R UpperArm
+    400072: Bip01 Spine
+    400074: Bip01 Spine1
+    400076: Bip01 Spine2
+    400078: Bip01 Spine3
+    400080: Bip01 Spine4
+    400082: Bip01 Spine5
+    400084: Bone01
+    400086: Bone02
+    400088: Bone03
+    400090: Bone04
+    400092: Bone05
+    400094: Bone07
+    400096: Bone08
+    400098: Bone09
+    400100: Bone10
+    400102: Bone101
+    400104: Bone102
+    400106: Bone104
+    400108: Bone107
+    400110: Bone109
+    400112: Bone11
+    400114: Bone111
+    400116: Bone113
+    400118: Bone115
+    400120: Bone116
+    400122: Bone117
+    400124: Bone118
+    400126: Bone119
+    400128: Bone120
+    400130: Bone121
+    400132: Bone122
+    400134: Bone124
+    400136: Bone126
+    400138: Bone128
+    400140: Bone129
+    400142: Bone13
+    400144: Bone131
+    400146: Bone134
+    400148: Bone136
+    400150: Bone138
+    400152: Bone139
+    400154: Bone14
+    400156: Bone141
+    400158: Bone143
+    400160: Bone145
+    400162: Bone147
+    400164: Bone15
+    400166: Bone150
+    400168: Bone152
+    400170: Bone154
+    400172: Bone156
+    400174: Bone157
+    400176: Bone159
+    400178: Bone16
+    400180: Bone18
+    400182: Bone19
+    400184: Bone20
+    400186: Bone21
+    400188: Bone23
+    400190: Bone24
+    400192: Bone26
+    400194: Bone27
+    400196: Bone28
+    400198: Bone30
+    400200: Bone31
+    400202: Bone33
+    400204: Bone34
+    400206: Bone36
+    400208: Bone37
+    400210: Bone39
+    400212: Bone40
+    400214: Bone41
+    400216: Bone43
+    400218: Bone44
+    400220: Bone46
+    400222: Bone47
+    400224: Bone49
+    400226: Bone51
+    400228: Bone53
+    400230: Bone55
+    400232: Bone57
+    400234: Bone59
+    400236: Bone61
+    400238: Bone63
+    400240: Bone65
+    400242: Bone67
+    400244: Bone70
+    400246: Bone72
+    400248: Bone73
+    400250: Bone75
+    400252: Bone77
+    400254: Bone79
+    400256: Bone80
+    400258: Bone81
+    400260: Bone82
+    400262: Bone84
+    400264: Bone86
+    400266: Bone88
+    400268: Bone90
+    400270: Bone92
+    400272: Bone94
+    400274: Bone96
+    400276: Bone99
+    400278: //RootNode
+    400280: Mao01_Body
+    400282: mao01_root
+    400284: help_toujin
+    400286: mao01
+    400288: mao01_000
+    400290: mao01_001
+    400292: mao01_002
+    400294: mao01_003
+    400296: mao01_004
+    400298: mao01_005
+    400300: mao01_006
+    400302: mao01_007
+    400304: mao01_008
+    400306: mao01_009
+    400308: mao01_010
+    400310: mao01_011
+    400312: mao01_012
+    400314: mao01_013
+    400316: mao01_014
+    400318: mao01_015
+    400320: mao01_016
+    400322: mao01_017
+    400324: mao01_018
+    400326: mao01_019
+    400328: mao01_020
+    400330: mao01_021
+    400332: mao01_022
+    400334: mao01_023
+    400336: mao01_024
+    400338: mao01_025
+    400340: mao01_026
+    400342: mao01_027
+    400344: mao01_028
+    400346: mao01_029
+    400348: mao01_030
+    400350: mao01_031
+    400352: mao01_032
+    400354: mao01_033
+    400356: mao01_034
+    400358: mao01_035
+    400360: mao01_036
+    400362: mao01_037
+    400364: mao01_038
+    400366: mao01_039
+    400368: mao01_040
+    400370: mao01_041
+    400372: mao01_042
+    400374: mao01_043
+    400376: mao01_044
+    400378: mao01_045
+    400380: mao01_046
+    400382: mao01_047
+    400384: mao01_048
+    400386: mao01_049
+    400388: mao01_050
+    400390: mao01_051
+    400392: mao01_052
+    400394: mao01_053
+    400396: mao01_054
+    400398: mao01_055
+    400400: mao01_056
+    400402: mao01_057
+    400404: mao01_058
+    400406: mao01_059
+    400408: mao01_060
+    400410: mao01_061
+    400412: mao01_062
+    400414: mao01_063
+    400416: mao01_064
+    400418: mao01_065
+    400420: mao01_066
+    400422: mao01_067
+    400424: mao01_068
+    400426: mao01_069
+    400428: mao01_070
+    400430: mao01_071
+    400432: mao01_072
+    400434: mao01_073
+    400436: mao01_074
+    400438: mao01_075
+    400440: mao01_076
+    400442: mao01_077
+    400444: mao01_078
+    400446: mao01_079
+    400448: mao01_080
+    400450: mao01_081
+    400452: mao01_082
+    400454: mao01_083
+    400456: mao01_084
+    400458: mao01_085
+    400460: mao01_086
+    400462: mao01_087
+    400464: mao01_088
+    400466: body
+    400468: Bone01_m
+    400470: Bone02_m
+    400472: Bone03_m
+    400474: Bone04_m
+    400476: Bone05_m
+    400478: Bone12
+    400480: Bone17
+    400482: Bone22
+    400484: Bone25
+    400486: Bone30_m
+    400488: Bone31_m
+    400490: Bone32
+    400492: Bone32_m
+    400494: Bone34_m
+    400496: Bone35
+    400498: Bone35_m
+    400500: Bone37_m
+    400502: Bone38
+    400504: Bone38_m
+    400506: Bone40_m
+    400508: Bone41_m
+    400510: Bone43_m
+    400512: Bone45
+    400514: Bone45_m
+    400516: Bone46_m
+    400518: Bone48
+    400520: Bone48_m
+    400522: Bone49_m
+    400524: Bone52
+    400526: Bone54
+    400528: Bone56
+    400530: Bone58
+    400532: Bone60
+    400534: Help_Tou
+    400536: Help_Wq
+    400538: Help_Xiong
+    400540: Help_Ys
+    400542: Help_Zs
+    400544: root
+    4300000: Mao01_Body
+    4300002: mao01
+    4300004: body
+    9500000: //RootNode
+    13700000: Mao01_Body
+    13700002: mao01
+    13700004: body
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .100000001
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

@@ -1,0 +1,255 @@
+fileFormatVersion: 2
+guid: accae226d3ca5114eacac937e778a93e
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Bone01
+    100004: Bone03
+    100006: Bone05
+    100008: Box01
+    100010: root
+    100012: help_02
+    100014: Bone07
+    100016: Bone09
+    100018: Bone11
+    100020: Bone13
+    100022: Bone15
+    100024: Bone17
+    100026: Bone19
+    100028: Bone21
+    100030: Bone23
+    100032: Bone25
+    100034: Bone27
+    100036: Bone29
+    100038: Bone31
+    100040: Bone33
+    100042: Bone35
+    100044: Bone37
+    100046: Bone39
+    100048: Bone41
+    100050: Bone43
+    100052: Bone45
+    100054: Bone47
+    100056: Bone49
+    100058: Bone51
+    100060: Bone53
+    100062: Bone55
+    100064: Bone57
+    100066: Bone59
+    100068: Bone61
+    100070: Bone63
+    100072: Bone65
+    100074: Bone67
+    100076: Bone69
+    100078: Bone71
+    100080: Bone73
+    100082: Bone75
+    100084: help01
+    400000: //RootNode
+    400002: Bone01
+    400004: Bone03
+    400006: Bone05
+    400008: Box01
+    400010: root
+    400012: help_02
+    400014: Bone07
+    400016: Bone09
+    400018: Bone11
+    400020: Bone13
+    400022: Bone15
+    400024: Bone17
+    400026: Bone19
+    400028: Bone21
+    400030: Bone23
+    400032: Bone25
+    400034: Bone27
+    400036: Bone29
+    400038: Bone31
+    400040: Bone33
+    400042: Bone35
+    400044: Bone37
+    400046: Bone39
+    400048: Bone41
+    400050: Bone43
+    400052: Bone45
+    400054: Bone47
+    400056: Bone49
+    400058: Bone51
+    400060: Bone53
+    400062: Bone55
+    400064: Bone57
+    400066: Bone59
+    400068: Bone61
+    400070: Bone63
+    400072: Bone65
+    400074: Bone67
+    400076: Bone69
+    400078: Bone71
+    400080: Bone73
+    400082: Bone75
+    400084: help01
+    7400000: 1608@10000
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: 1608@10000
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 55
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: root
+        weight: 1
+      - path: root/Bone71
+        weight: 1
+      - path: root/Bone71/Bone01
+        weight: 1
+      - path: root/Bone71/Bone03
+        weight: 1
+      - path: root/Bone71/Bone05
+        weight: 1
+      - path: root/Bone71/Bone07
+        weight: 1
+      - path: root/Bone71/Bone09
+        weight: 1
+      - path: root/Bone71/Bone11
+        weight: 1
+      - path: root/Bone71/Bone13
+        weight: 1
+      - path: root/Bone71/Bone15
+        weight: 1
+      - path: root/Bone71/Bone17
+        weight: 1
+      - path: root/Bone71/Bone19
+        weight: 1
+      - path: root/Bone71/Bone21
+        weight: 1
+      - path: root/Bone71/Bone23
+        weight: 1
+      - path: root/Bone71/Bone25
+        weight: 1
+      - path: root/Bone71/Bone27
+        weight: 1
+      - path: root/Bone71/Bone29
+        weight: 1
+      - path: root/Bone71/Bone31
+        weight: 1
+      - path: root/Bone71/Bone33
+        weight: 1
+      - path: root/Bone71/Bone35
+        weight: 1
+      - path: root/Bone71/Bone37
+        weight: 1
+      - path: root/Bone71/Bone39
+        weight: 1
+      - path: root/Bone71/Bone41
+        weight: 1
+      - path: root/Bone71/Bone43
+        weight: 1
+      - path: root/Bone71/Bone45
+        weight: 1
+      - path: root/Bone71/Bone47
+        weight: 1
+      - path: root/Bone71/Bone49
+        weight: 1
+      - path: root/Bone71/Bone51
+        weight: 1
+      - path: root/Bone71/Bone53
+        weight: 1
+      - path: root/Bone71/Bone55
+        weight: 1
+      - path: root/Bone71/Bone57
+        weight: 1
+      - path: root/Bone71/Bone59
+        weight: 1
+      - path: root/Bone71/Bone61
+        weight: 1
+      - path: root/Bone71/Bone63
+        weight: 1
+      - path: root/Bone71/Bone65
+        weight: 1
+      - path: root/Bone71/Bone67
+        weight: 1
+      - path: root/Bone71/Bone69
+        weight: 1
+      - path: root/Bone71/Bone73
+        weight: 1
+      - path: root/Bone71/Bone73/help01
+        weight: 1
+      - path: root/Bone71/Bone75
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .100000001
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

@@ -1,0 +1,255 @@
+fileFormatVersion: 2
+guid: 426e644eef3cd6d4196957fa7cf91230
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Bone01
+    100002: Bone03
+    100004: Bone05
+    100006: Bone07
+    100008: Bone09
+    100010: Bone11
+    100012: Bone13
+    100014: Bone14
+    100016: Bone16
+    100018: Bone20
+    100020: Bone22
+    100022: Bone26
+    100024: Bone27
+    100026: Bone28
+    100028: Bone31
+    100030: Bone33
+    100032: Bone35
+    100034: Bone37
+    100036: Bone39
+    100038: Bone41
+    100040: Bone43
+    100042: Bone45
+    100044: Bone47
+    100046: Bone49
+    100048: Bone51
+    100050: Bone53
+    100052: Bone55
+    100054: help01
+    100056: help02
+    100058: help03
+    100060: help04
+    100062: help05
+    100064: help06
+    100066: help07
+    100068: help08
+    100070: help09
+    100072: help10
+    100074: help11
+    100076: help12
+    100078: help13
+    100080: //RootNode
+    100082: root
+    400000: Bone01
+    400002: Bone03
+    400004: Bone05
+    400006: Bone07
+    400008: Bone09
+    400010: Bone11
+    400012: Bone13
+    400014: Bone14
+    400016: Bone16
+    400018: Bone20
+    400020: Bone22
+    400022: Bone26
+    400024: Bone27
+    400026: Bone28
+    400028: Bone31
+    400030: Bone33
+    400032: Bone35
+    400034: Bone37
+    400036: Bone39
+    400038: Bone41
+    400040: Bone43
+    400042: Bone45
+    400044: Bone47
+    400046: Bone49
+    400048: Bone51
+    400050: Bone53
+    400052: Bone55
+    400054: help01
+    400056: help02
+    400058: help03
+    400060: help04
+    400062: help05
+    400064: help06
+    400066: help07
+    400068: help08
+    400070: help09
+    400072: help10
+    400074: help11
+    400076: help12
+    400078: help13
+    400080: //RootNode
+    400082: root
+    7400000: 10000
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: 10000
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 60
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: root
+        weight: 1
+      - path: root/Bone01
+        weight: 1
+      - path: root/Bone01/Bone03
+        weight: 1
+      - path: root/Bone01/Bone03/help13
+        weight: 1
+      - path: root/Bone01/Bone05
+        weight: 1
+      - path: root/Bone01/Bone05/help10
+        weight: 1
+      - path: root/Bone01/Bone07
+        weight: 1
+      - path: root/Bone01/Bone07/help11
+        weight: 1
+      - path: root/Bone01/Bone09
+        weight: 1
+      - path: root/Bone01/Bone09/help09
+        weight: 1
+      - path: root/Bone01/Bone11
+        weight: 1
+      - path: root/Bone01/Bone11/help12
+        weight: 1
+      - path: root/Bone01/Bone13
+        weight: 1
+      - path: root/Bone01/Bone13/help05
+        weight: 1
+      - path: root/Bone01/Bone14
+        weight: 1
+      - path: root/Bone01/Bone14/help06
+        weight: 1
+      - path: root/Bone01/Bone16
+        weight: 1
+      - path: root/Bone01/Bone16/help07
+        weight: 1
+      - path: root/Bone01/Bone20
+        weight: 1
+      - path: root/Bone01/Bone20/help08
+        weight: 1
+      - path: root/Bone01/Bone22
+        weight: 1
+      - path: root/Bone01/Bone22/help03
+        weight: 1
+      - path: root/Bone01/Bone26
+        weight: 1
+      - path: root/Bone01/Bone26/help02
+        weight: 1
+      - path: root/Bone01/Bone27
+        weight: 1
+      - path: root/Bone01/Bone27/help01
+        weight: 1
+      - path: root/Bone01/Bone28
+        weight: 1
+      - path: root/Bone01/Bone28/help04
+        weight: 1
+      - path: root/Bone01/Bone31
+        weight: 1
+      - path: root/Bone01/Bone33
+        weight: 1
+      - path: root/Bone01/Bone35
+        weight: 1
+      - path: root/Bone01/Bone37
+        weight: 1
+      - path: root/Bone01/Bone39
+        weight: 1
+      - path: root/Bone01/Bone41
+        weight: 1
+      - path: root/Bone01/Bone43
+        weight: 1
+      - path: root/Bone01/Bone45
+        weight: 1
+      - path: root/Bone01/Bone47
+        weight: 1
+      - path: root/Bone01/Bone49
+        weight: 1
+      - path: root/Bone01/Bone51
+        weight: 1
+      - path: root/Bone01/Bone53
+        weight: 1
+      - path: root/Bone01/Bone55
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .100000001
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

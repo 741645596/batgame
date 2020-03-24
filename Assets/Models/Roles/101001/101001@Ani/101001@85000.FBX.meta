@@ -1,0 +1,569 @@
+fileFormatVersion: 2
+guid: 0f57ad0414a65614d8219ffd48193320
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Bone01
+    100004: help_toujin
+    100006: mao01_000
+    100008: mao01_001
+    100010: mao01_002
+    100012: mao01_003
+    100014: mao01_004
+    100016: mao01_005
+    100018: mao01_006
+    100020: mao01_007
+    100022: mao01_008
+    100024: mao01_009
+    100026: mao01_010
+    100028: mao01_011
+    100030: mao01_012
+    100032: mao01_013
+    100034: mao01_014
+    100036: mao01_015
+    100038: mao01_016
+    100040: mao01_017
+    100042: mao01_018
+    100044: mao01_019
+    100046: mao01_020
+    100048: mao01_021
+    100050: mao01_022
+    100052: mao01_023
+    100054: mao01_024
+    100056: mao01_025
+    100058: mao01_026
+    100060: mao01_027
+    100062: mao01_028
+    100064: mao01_029
+    100066: mao01_030
+    100068: mao01_031
+    100070: mao01_032
+    100072: mao01_033
+    100074: mao01_034
+    100076: mao01_035
+    100078: mao01_036
+    100080: mao01_037
+    100082: mao01_038
+    100084: mao01_039
+    100086: mao01_040
+    100088: mao01_041
+    100090: mao01_042
+    100092: mao01_043
+    100094: mao01_044
+    100096: mao01_045
+    100098: mao01_046
+    100100: mao01_047
+    100102: mao01_048
+    100104: mao01_049
+    100106: mao01_050
+    100108: mao01_051
+    100110: mao01_052
+    100112: mao01_053
+    100114: mao01_054
+    100116: mao01_055
+    100118: mao01_056
+    100120: mao01_057
+    100122: mao01_058
+    100124: mao01_060
+    100126: mao01_061
+    100128: mao01_062
+    100130: mao01_063
+    100132: mao01_064
+    100134: mao01_065
+    100136: mao01_066
+    100138: mao01_067
+    100140: mao01_068
+    100142: mao01_069
+    100144: mao01_070
+    100146: mao01_071
+    100148: mao01_072
+    100150: mao01_073
+    100152: mao01_074
+    100154: mao01_075
+    100156: mao01_076
+    100158: mao01_077
+    100160: mao01_078
+    100162: mao01_079
+    100164: mao01_081
+    100166: mao01_082
+    100168: mao01_083
+    100170: mao01_084
+    100172: mao01_085
+    100174: mao01_086
+    100176: mao01_087
+    100178: mao01_088
+    100180: mao01_root
+    100182: Bip01
+    100184: Bip01 L Calf
+    100186: Bip01 L Foot
+    100188: Bip01 L Thigh
+    100190: Bip01 L Toe0
+    100192: Bip01 Pelvis
+    100194: Bip01 R Calf
+    100196: Bip01 R Foot
+    100198: Bip01 R Thigh
+    100200: Bip01 R Toe0
+    100202: Bip01 Spine
+    100204: Bone01_m
+    100206: Bone02
+    100208: Bone02_m
+    100210: Bone03
+    100212: Bone03_m
+    100214: Bone04
+    100216: Bone04_m
+    100218: Bone05
+    100220: Bone05_m
+    100222: Bone08
+    100224: Bone10
+    100226: Bone12
+    100228: Bone14
+    100230: Bone16
+    100232: Bone17
+    100234: Bone18
+    100236: Bone19
+    100238: Bone20
+    100240: Bone22
+    100242: Bone23
+    100244: Bone24
+    100246: Bone25
+    100248: Bone26
+    100250: Bone28
+    100252: Bone30
+    100254: Bone30_m
+    100256: Bone31
+    100258: Bone31_m
+    100260: Bone32
+    100262: Bone32_m
+    100264: Bone34
+    100266: Bone34_m
+    100268: Bone35
+    100270: Bone35_m
+    100272: Bone37
+    100274: Bone37_m
+    100276: Bone38
+    100278: Bone38_m
+    100280: Bone40
+    100282: Bone40_m
+    100284: Bone41
+    100286: Bone41_m
+    100288: Bone43
+    100290: Bone43_m
+    100292: Bone45
+    100294: Bone45_m
+    100296: Bone46
+    100298: Bone46_m
+    100300: Bone48
+    100302: Bone48_m
+    100304: Bone49
+    100306: Bone49_m
+    100308: Bone51
+    100310: Bone52
+    100312: Bone53
+    100314: Bone54
+    100316: Bone56
+    100318: Bone58
+    100320: Bone60
+    100322: Help_Zs
+    100324: root
+    400000: //RootNode
+    400002: Bone01
+    400004: help_toujin
+    400006: mao01_000
+    400008: mao01_001
+    400010: mao01_002
+    400012: mao01_003
+    400014: mao01_004
+    400016: mao01_005
+    400018: mao01_006
+    400020: mao01_007
+    400022: mao01_008
+    400024: mao01_009
+    400026: mao01_010
+    400028: mao01_011
+    400030: mao01_012
+    400032: mao01_013
+    400034: mao01_014
+    400036: mao01_015
+    400038: mao01_016
+    400040: mao01_017
+    400042: mao01_018
+    400044: mao01_019
+    400046: mao01_020
+    400048: mao01_021
+    400050: mao01_022
+    400052: mao01_023
+    400054: mao01_024
+    400056: mao01_025
+    400058: mao01_026
+    400060: mao01_027
+    400062: mao01_028
+    400064: mao01_029
+    400066: mao01_030
+    400068: mao01_031
+    400070: mao01_032
+    400072: mao01_033
+    400074: mao01_034
+    400076: mao01_035
+    400078: mao01_036
+    400080: mao01_037
+    400082: mao01_038
+    400084: mao01_039
+    400086: mao01_040
+    400088: mao01_041
+    400090: mao01_042
+    400092: mao01_043
+    400094: mao01_044
+    400096: mao01_045
+    400098: mao01_046
+    400100: mao01_047
+    400102: mao01_048
+    400104: mao01_049
+    400106: mao01_050
+    400108: mao01_051
+    400110: mao01_052
+    400112: mao01_053
+    400114: mao01_054
+    400116: mao01_055
+    400118: mao01_056
+    400120: mao01_057
+    400122: mao01_058
+    400124: mao01_060
+    400126: mao01_061
+    400128: mao01_062
+    400130: mao01_063
+    400132: mao01_064
+    400134: mao01_065
+    400136: mao01_066
+    400138: mao01_067
+    400140: mao01_068
+    400142: mao01_069
+    400144: mao01_070
+    400146: mao01_071
+    400148: mao01_072
+    400150: mao01_073
+    400152: mao01_074
+    400154: mao01_075
+    400156: mao01_076
+    400158: mao01_077
+    400160: mao01_078
+    400162: mao01_079
+    400164: mao01_081
+    400166: mao01_082
+    400168: mao01_083
+    400170: mao01_084
+    400172: mao01_085
+    400174: mao01_086
+    400176: mao01_087
+    400178: mao01_088
+    400180: mao01_root
+    400182: Bip01
+    400184: Bip01 L Calf
+    400186: Bip01 L Foot
+    400188: Bip01 L Thigh
+    400190: Bip01 L Toe0
+    400192: Bip01 Pelvis
+    400194: Bip01 R Calf
+    400196: Bip01 R Foot
+    400198: Bip01 R Thigh
+    400200: Bip01 R Toe0
+    400202: Bip01 Spine
+    400204: Bone01_m
+    400206: Bone02
+    400208: Bone02_m
+    400210: Bone03
+    400212: Bone03_m
+    400214: Bone04
+    400216: Bone04_m
+    400218: Bone05
+    400220: Bone05_m
+    400222: Bone08
+    400224: Bone10
+    400226: Bone12
+    400228: Bone14
+    400230: Bone16
+    400232: Bone17
+    400234: Bone18
+    400236: Bone19
+    400238: Bone20
+    400240: Bone22
+    400242: Bone23
+    400244: Bone24
+    400246: Bone25
+    400248: Bone26
+    400250: Bone28
+    400252: Bone30
+    400254: Bone30_m
+    400256: Bone31
+    400258: Bone31_m
+    400260: Bone32
+    400262: Bone32_m
+    400264: Bone34
+    400266: Bone34_m
+    400268: Bone35
+    400270: Bone35_m
+    400272: Bone37
+    400274: Bone37_m
+    400276: Bone38
+    400278: Bone38_m
+    400280: Bone40
+    400282: Bone40_m
+    400284: Bone41
+    400286: Bone41_m
+    400288: Bone43
+    400290: Bone43_m
+    400292: Bone45
+    400294: Bone45_m
+    400296: Bone46
+    400298: Bone46_m
+    400300: Bone48
+    400302: Bone48_m
+    400304: Bone49
+    400306: Bone49_m
+    400308: Bone51
+    400310: Bone52
+    400312: Bone53
+    400314: Bone54
+    400316: Bone56
+    400318: Bone58
+    400320: Bone60
+    400322: Help_Zs
+    400324: root
+    7400000: 101001@85000
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: 101001@85000
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 32
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: root
+        weight: 1
+      - path: root/Bip01
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bip01 Spine
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 L Thigh
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 L Thigh/Bip01 L Calf
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 L Thigh/Bip01 L Calf/Bip01
+          L Foot
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 L Thigh/Bip01 L Calf/Bip01
+          L Foot/Bip01 L Toe0
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 L Thigh/Bip01 L Calf/Bip01
+          L Foot/Bip01 L Toe0/Bone49_m
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 L Thigh/Bip01 L Calf/Bip01
+          L Foot/Bone48_m
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 L Thigh/Bip01 L Calf/Bone46_m
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 L Thigh/Bone45_m
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 R Thigh
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 R Thigh/Bip01 R Calf
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 R Thigh/Bip01 R Calf/Bip01
+          R Foot
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 R Thigh/Bip01 R Calf/Bip01
+          R Foot/Bip01 R Toe0
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 R Thigh/Bip01 R Calf/Bip01
+          R Foot/Bip01 R Toe0/Bone49
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 R Thigh/Bip01 R Calf/Bip01
+          R Foot/Bone48
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 R Thigh/Bip01 R Calf/Bone46
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 R Thigh/Bone45
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bone51
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bone51/Bone22
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bone51/Bone22/Bone23
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bone51/Bone22/Bone23/Bone24
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bone51/Bone22/Bone23/Bone24/Bone25
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bone51/Bone22/Bone23/Bone24/Bone25/Bone26
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bone51/Bone52
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bone51/Bone52/Bone53
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bone51/Bone52/Bone53/Bone54
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bone51/Bone52/Bone53/Bone54/Bone16
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bone51/Bone52/Bone53/Bone54/Bone16/Bone17
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bone51/Bone52/Bone53/Bone54/Bone16/Bone17/Bone18
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bone51/Bone52/Bone53/Bone54/Bone16/Bone17/Bone18/Bone19
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bone51/Bone52/Bone53/Bone54/Bone16/Bone17/Bone18/Bone19/Bone20
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bone51/Bone52/Bone53/Bone54/Bone30
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bone51/Bone52/Bone53/Bone54/Bone30/Bone31
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bone51/Bone52/Bone53/Bone54/Bone30/Bone31/Bone32
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bone51/Bone52/Bone53/Bone54/Bone30/Bone31/Bone32/Bone34
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bone51/Bone52/Bone53/Bone54/Bone30/Bone31/Bone32/Bone34/Bone35
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bone51/Bone52/Bone53/Bone54/Bone30/Bone31/Bone32/Bone37
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bone51/Bone52/Bone53/Bone54/Bone30/Bone31/Bone32/Bone37/Bone38
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bone51/Bone52/Bone53/Bone54/Bone30/Bone31/Bone32/Bone40
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bone51/Bone52/Bone53/Bone54/Bone30/Bone31/Bone32/Bone40/Bone41
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bone51/Bone52/Bone53/Bone54/Bone30_m
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bone51/Bone52/Bone53/Bone54/Bone30_m/Bone31_m
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bone51/Bone52/Bone53/Bone54/Bone30_m/Bone31_m/Bone32_m
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bone51/Bone52/Bone53/Bone54/Bone30_m/Bone31_m/Bone32_m/Bone34_m
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bone51/Bone52/Bone53/Bone54/Bone30_m/Bone31_m/Bone32_m/Bone34_m/Bone35_m
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bone51/Bone52/Bone53/Bone54/Bone30_m/Bone31_m/Bone32_m/Bone37_m
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bone51/Bone52/Bone53/Bone54/Bone30_m/Bone31_m/Bone32_m/Bone37_m/Bone38_m
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bone51/Bone52/Bone53/Bone54/Bone30_m/Bone31_m/Bone32_m/Bone40_m
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bone51/Bone52/Bone53/Bone54/Bone30_m/Bone31_m/Bone32_m/Bone40_m/Bone41_m
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bone51/Bone52/Bone53/Bone54/Bone30_m/Bone31_m/Bone32_m/Help_Zs
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bone51/Bone52/Bone53/Bone54/Bone30_m/Bone31_m/Bone32_m/Help_Zs/Bone28
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bone51/Bone52/Bone53/Bone54/Bone30_m/Bone58
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bone51/Bone52/Bone53/Bone54/Bone56
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bone51/Bone52/Bone53/Bone54/Bone56/Bone01
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bone51/Bone52/Bone53/Bone54/Bone56/Bone01_m
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bone51/Bone52/Bone53/Bone54/Bone56/Bone02
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bone51/Bone52/Bone53/Bone54/Bone56/Bone02/Bone03
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bone51/Bone52/Bone53/Bone54/Bone56/Bone02/Bone03/Bone04
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bone51/Bone52/Bone53/Bone54/Bone56/Bone02/Bone03/Bone04/Bone05
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bone51/Bone52/Bone53/Bone54/Bone56/Bone02_m
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bone51/Bone52/Bone53/Bone54/Bone56/Bone02_m/Bone03_m
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bone51/Bone52/Bone53/Bone54/Bone56/Bone02_m/Bone03_m/Bone04_m
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bone51/Bone52/Bone53/Bone54/Bone56/Bone02_m/Bone03_m/Bone04_m/Bone05_m
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bone51/Bone52/Bone53/Bone54/Bone56/Bone08
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bone51/Bone52/Bone53/Bone54/Bone56/Bone10
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bone51/Bone52/Bone53/Bone54/Bone56/Bone12
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bone51/Bone52/Bone53/Bone54/Bone56/Bone14
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bone51/Bone52/Bone53/Bone54/Bone56/Bone43
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bone51/Bone52/Bone53/Bone54/Bone56/Bone43_m
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bone51/Bone52/Bone53/Bone54/Bone56/Bone60
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .100000001
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

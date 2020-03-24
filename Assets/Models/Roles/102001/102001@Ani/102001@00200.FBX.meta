@@ -1,0 +1,470 @@
+fileFormatVersion: 2
+guid: ad63d7a2d18089643b622c811b10e93b
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Bip01
+    100004: Bip01 L Calf
+    100006: Bip01 L Clavicle
+    100008: Bip01 L Foot
+    100010: Bip01 L Forearm
+    100012: Bip01 L Hand
+    100014: Bip01 L Thigh
+    100016: Bip01 L UpperArm
+    100018: Bip01 Neck
+    100020: Bip01 Pelvis
+    100022: Bip01 R Calf
+    100024: Bip01 R Clavicle
+    100026: Bip01 R Foot
+    100028: Bip01 R Forearm
+    100030: Bip01 R Hand
+    100032: Bip01 R Thigh
+    100034: Bip01 R UpperArm
+    100036: Bip01 Spine
+    100038: Bip01 Spine1
+    100040: Bone_BearArm00
+    100042: Bone_BearArm00_m
+    100044: Bone_BearArm01
+    100046: Bone_BearArm01_m
+    100048: Bone_BearBelly
+    100050: Bone_BearCheek
+    100052: Bone_BearCheek_m
+    100054: Bone_BearChin
+    100056: Bone_BearChin2
+    100058: Bone_BearEar
+    100060: Bone_BearEar_m
+    100062: Bone_BearEye00
+    100064: Bone_BearEye00_m
+    100066: Bone_BearEye01
+    100068: Bone_BearEye01_m
+    100070: Bone_BearEye02
+    100072: Bone_BearEye02_m
+    100074: Bone_BearEye04
+    100076: Bone_BearEye04_m
+    100078: Bone_BearEye06
+    100080: Bone_BearEye06_m
+    100082: Bone_BearEye08
+    100084: Bone_BearEye08_m
+    100086: Bone_BearEye10
+    100088: Bone_BearEye10_m
+    100090: Bone_BearFinger00
+    100092: Bone_BearFinger00_m
+    100094: Bone_BearFinger01
+    100096: Bone_BearFinger01_m
+    100098: Bone_BearFinger02
+    100100: Bone_BearFinger02_m
+    100102: Bone_BearHead
+    100104: Bone_BearHips00
+    100106: Bone_BearHips01
+    100108: Bone_BearMeat00
+    100110: Bone_BearMeat01
+    100112: Bone_BearMeat02
+    100114: Bone_BearMouth00
+    100116: Bone_BearMouth01
+    100118: Bone_BearMouth02
+    100120: Bone_BearMouth02_m
+    100122: Bone_BearNeck
+    100124: Bone_BearNose
+    100126: Bone_BearScarf00
+    100128: Bone_BearScarf01
+    100130: Bone_BearScarf02
+    100132: Bone_BearScarf02_m
+    100134: Bone_BearScarf03
+    100136: Bone_BearScarf03_m
+    100138: Bone_BearScarf04
+    100140: Bone_BearScarf04_m
+    100142: Bone_BearScarf05
+    100144: Bone_BearScarf05_m
+    100146: Bone_BearScarf06
+    100148: Bone_BearScarf06_m
+    100150: Bone_BearScarf07
+    100152: Bone_BearScarfRoot
+    100154: Bone_BearTongue00
+    100156: Bone_BearTongue01
+    100158: Bone_BearTongue02
+    100160: Bip01 Head
+    100162: Bip01 L Finger0
+    100164: Bip01 L Finger1
+    100166: Bip01 L Finger2
+    100168: Bip01 L Toe0
+    100170: Bip01 R Finger0
+    100172: Bip01 R Finger1
+    100174: Bip01 R Finger2
+    100176: Bip01 R Toe0
+    100178: Bone01
+    100180: Bone05
+    100182: Bone09
+    100184: Bone11
+    100186: Bone14
+    100188: Bone16
+    100190: Bone17
+    100192: Bone18
+    100194: Bone19
+    100196: Bone21
+    100198: Bone22
+    100200: Bone23
+    100202: Bone25
+    100204: Bone26
+    100206: Bone27
+    100208: Bone_BearEye11
+    100210: root
+    400000: //RootNode
+    400002: Bip01
+    400004: Bip01 L Calf
+    400006: Bip01 L Clavicle
+    400008: Bip01 L Foot
+    400010: Bip01 L Forearm
+    400012: Bip01 L Hand
+    400014: Bip01 L Thigh
+    400016: Bip01 L UpperArm
+    400018: Bip01 Neck
+    400020: Bip01 Pelvis
+    400022: Bip01 R Calf
+    400024: Bip01 R Clavicle
+    400026: Bip01 R Foot
+    400028: Bip01 R Forearm
+    400030: Bip01 R Hand
+    400032: Bip01 R Thigh
+    400034: Bip01 R UpperArm
+    400036: Bip01 Spine
+    400038: Bip01 Spine1
+    400040: Bone_BearArm00
+    400042: Bone_BearArm00_m
+    400044: Bone_BearArm01
+    400046: Bone_BearArm01_m
+    400048: Bone_BearBelly
+    400050: Bone_BearCheek
+    400052: Bone_BearCheek_m
+    400054: Bone_BearChin
+    400056: Bone_BearChin2
+    400058: Bone_BearEar
+    400060: Bone_BearEar_m
+    400062: Bone_BearEye00
+    400064: Bone_BearEye00_m
+    400066: Bone_BearEye01
+    400068: Bone_BearEye01_m
+    400070: Bone_BearEye02
+    400072: Bone_BearEye02_m
+    400074: Bone_BearEye04
+    400076: Bone_BearEye04_m
+    400078: Bone_BearEye06
+    400080: Bone_BearEye06_m
+    400082: Bone_BearEye08
+    400084: Bone_BearEye08_m
+    400086: Bone_BearEye10
+    400088: Bone_BearEye10_m
+    400090: Bone_BearFinger00
+    400092: Bone_BearFinger00_m
+    400094: Bone_BearFinger01
+    400096: Bone_BearFinger01_m
+    400098: Bone_BearFinger02
+    400100: Bone_BearFinger02_m
+    400102: Bone_BearHead
+    400104: Bone_BearHips00
+    400106: Bone_BearHips01
+    400108: Bone_BearMeat00
+    400110: Bone_BearMeat01
+    400112: Bone_BearMeat02
+    400114: Bone_BearMouth00
+    400116: Bone_BearMouth01
+    400118: Bone_BearMouth02
+    400120: Bone_BearMouth02_m
+    400122: Bone_BearNeck
+    400124: Bone_BearNose
+    400126: Bone_BearScarf00
+    400128: Bone_BearScarf01
+    400130: Bone_BearScarf02
+    400132: Bone_BearScarf02_m
+    400134: Bone_BearScarf03
+    400136: Bone_BearScarf03_m
+    400138: Bone_BearScarf04
+    400140: Bone_BearScarf04_m
+    400142: Bone_BearScarf05
+    400144: Bone_BearScarf05_m
+    400146: Bone_BearScarf06
+    400148: Bone_BearScarf06_m
+    400150: Bone_BearScarf07
+    400152: Bone_BearScarfRoot
+    400154: Bone_BearTongue00
+    400156: Bone_BearTongue01
+    400158: Bone_BearTongue02
+    400160: Bip01 Head
+    400162: Bip01 L Finger0
+    400164: Bip01 L Finger1
+    400166: Bip01 L Finger2
+    400168: Bip01 L Toe0
+    400170: Bip01 R Finger0
+    400172: Bip01 R Finger1
+    400174: Bip01 R Finger2
+    400176: Bip01 R Toe0
+    400178: Bone01
+    400180: Bone05
+    400182: Bone09
+    400184: Bone11
+    400186: Bone14
+    400188: Bone16
+    400190: Bone17
+    400192: Bone18
+    400194: Bone19
+    400196: Bone21
+    400198: Bone22
+    400200: Bone23
+    400202: Bone25
+    400204: Bone26
+    400206: Bone27
+    400208: Bone_BearEye11
+    400210: root
+    7400000: 102001@00200
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: 102001@00200
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 60
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: root
+        weight: 1
+      - path: root/Bip01 Pelvis
+        weight: 1
+      - path: root/Bip01 Pelvis/Bip01 Spine
+        weight: 1
+      - path: root/Bip01 Pelvis/Bip01 Spine/Bip01 L Thigh
+        weight: 1
+      - path: root/Bip01 Pelvis/Bip01 Spine/Bip01 L Thigh/Bip01 L Calf
+        weight: 1
+      - path: root/Bip01 Pelvis/Bip01 Spine/Bip01 L Thigh/Bip01 L Calf/Bip01 L Foot
+        weight: 1
+      - path: root/Bip01 Pelvis/Bip01 Spine/Bip01 L Thigh/Bip01 L Calf/Bip01 L Foot/Bip01
+          L Toe0
+        weight: 1
+      - path: root/Bip01 Pelvis/Bip01 Spine/Bip01 R Thigh
+        weight: 1
+      - path: root/Bip01 Pelvis/Bip01 Spine/Bip01 R Thigh/Bip01 R Calf
+        weight: 1
+      - path: root/Bip01 Pelvis/Bip01 Spine/Bip01 R Thigh/Bip01 R Calf/Bip01 R Foot
+        weight: 1
+      - path: root/Bip01 Pelvis/Bip01 Spine/Bip01 R Thigh/Bip01 R Calf/Bip01 R Foot/Bip01
+          R Toe0
+        weight: 1
+      - path: root/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1
+        weight: 1
+      - path: root/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck
+        weight: 1
+      - path: root/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 Head
+        weight: 1
+      - path: root/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 Head/Bone_BearChin
+        weight: 1
+      - path: root/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 Head/Bone_BearChin/Bone_BearMouth01
+        weight: 1
+      - path: root/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 Head/Bone_BearChin/Bone_BearTongue00
+        weight: 1
+      - path: root/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 Head/Bone_BearChin/Bone_BearTongue00/Bone_BearTongue01
+        weight: 1
+      - path: root/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 Head/Bone_BearChin/Bone_BearTongue00/Bone_BearTongue01/Bone_BearTongue02
+        weight: 1
+      - path: root/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 Head/Bone_BearEar
+        weight: 1
+      - path: root/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 Head/Bone_BearEar_m
+        weight: 1
+      - path: root/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 Head/Bone_BearEye00_m
+        weight: 1
+      - path: root/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 Head/Bone_BearEye00_m/Bone_BearEye01_m
+        weight: 1
+      - path: root/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 Head/Bone_BearEye00_m/Bone_BearEye01_m/Bone_BearEye02_m
+        weight: 1
+      - path: root/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 Head/Bone_BearEye00_m/Bone_BearEye01_m/Bone_BearEye04_m
+        weight: 1
+      - path: root/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 Head/Bone_BearEye00_m/Bone_BearEye01_m/Bone_BearEye06_m
+        weight: 1
+      - path: root/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 Head/Bone_BearEye00_m/Bone_BearEye08_m
+        weight: 1
+      - path: root/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 Head/Bone_BearEye00_m/Bone_BearEye10_m
+        weight: 1
+      - path: root/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 Head/Bone_BearEye11
+        weight: 1
+      - path: root/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 Head/Bone_BearEye11/Bone_BearEye08
+        weight: 1
+      - path: root/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 Head/Bone_BearEye11/Bone_BearEye10
+        weight: 1
+      - path: root/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 Head/Bone_BearMouth00
+        weight: 1
+      - path: root/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 Head/Bone_BearMouth02
+        weight: 1
+      - path: root/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 Head/Bone_BearMouth02_m
+        weight: 1
+      - path: root/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 Head/Bone_BearNose
+        weight: 1
+      - path: root/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 L Clavicle
+        weight: 1
+      - path: root/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 L Clavicle/Bip01
+          L UpperArm
+        weight: 1
+      - path: root/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 L Clavicle/Bip01
+          L UpperArm/Bip01 L Forearm
+        weight: 1
+      - path: root/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 L Clavicle/Bip01
+          L UpperArm/Bip01 L Forearm/Bip01 L Hand
+        weight: 1
+      - path: root/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 L Clavicle/Bip01
+          L UpperArm/Bip01 L Forearm/Bip01 L Hand/Bip01 L Finger0
+        weight: 1
+      - path: root/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 L Clavicle/Bip01
+          L UpperArm/Bip01 L Forearm/Bip01 L Hand/Bip01 L Finger1
+        weight: 1
+      - path: root/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 L Clavicle/Bip01
+          L UpperArm/Bip01 L Forearm/Bip01 L Hand/Bip01 L Finger2
+        weight: 1
+      - path: root/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 L Clavicle/Bip01
+          L UpperArm/Bip01 L Forearm/Bip01 L Hand/Bone_BearMeat00
+        weight: 1
+      - path: root/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 L Clavicle/Bip01
+          L UpperArm/Bip01 L Forearm/Bip01 L Hand/Bone_BearMeat00/Bone_BearMeat01
+        weight: 1
+      - path: root/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 L Clavicle/Bip01
+          L UpperArm/Bip01 L Forearm/Bip01 L Hand/Bone_BearMeat00/Bone_BearMeat01/Bone_BearMeat02
+        weight: 1
+      - path: root/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 L Clavicle/Bip01
+          L UpperArm/Bip01 L Forearm/Bone_BearArm01_m
+        weight: 1
+      - path: root/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 L Clavicle/Bip01
+          L UpperArm/Bone_BearArm00_m
+        weight: 1
+      - path: root/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 R Clavicle
+        weight: 1
+      - path: root/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 R Clavicle/Bip01
+          R UpperArm
+        weight: 1
+      - path: root/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 R Clavicle/Bip01
+          R UpperArm/Bip01 R Forearm
+        weight: 1
+      - path: root/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 R Clavicle/Bip01
+          R UpperArm/Bip01 R Forearm/Bip01 R Hand
+        weight: 1
+      - path: root/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 R Clavicle/Bip01
+          R UpperArm/Bip01 R Forearm/Bip01 R Hand/Bip01 R Finger0
+        weight: 1
+      - path: root/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 R Clavicle/Bip01
+          R UpperArm/Bip01 R Forearm/Bip01 R Hand/Bip01 R Finger1
+        weight: 1
+      - path: root/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 R Clavicle/Bip01
+          R UpperArm/Bip01 R Forearm/Bip01 R Hand/Bip01 R Finger2
+        weight: 1
+      - path: root/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 R Clavicle/Bip01
+          R UpperArm/Bip01 R Forearm/Bone_BearArm01
+        weight: 1
+      - path: root/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 R Clavicle/Bip01
+          R UpperArm/Bone_BearArm00
+        weight: 1
+      - path: root/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bone01
+        weight: 1
+      - path: root/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bone05
+        weight: 1
+      - path: root/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bone09
+        weight: 1
+      - path: root/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bone11
+        weight: 1
+      - path: root/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bone14
+        weight: 1
+      - path: root/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bone16
+        weight: 1
+      - path: root/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bone17
+        weight: 1
+      - path: root/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bone17/Bone18
+        weight: 1
+      - path: root/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bone17/Bone18/Bone19
+        weight: 1
+      - path: root/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bone21
+        weight: 1
+      - path: root/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bone21/Bone22
+        weight: 1
+      - path: root/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bone21/Bone22/Bone23
+        weight: 1
+      - path: root/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bone25
+        weight: 1
+      - path: root/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bone25/Bone26
+        weight: 1
+      - path: root/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bone25/Bone26/Bone27
+        weight: 1
+      - path: root/Bip01 Pelvis/Bone_BearBelly
+        weight: 1
+      - path: root/Bip01 Pelvis/Bone_BearHips00
+        weight: 1
+      - path: root/Bip01 Pelvis/Bone_BearHips00/Bone_BearHips01
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .0850000009
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
