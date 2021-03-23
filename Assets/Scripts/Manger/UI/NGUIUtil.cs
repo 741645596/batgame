@@ -717,7 +717,9 @@ public class NGUIUtil
     /// <param name="time">持续时长</param>
     public static void UpdatePanelValue(UIPanel panel, float toValue, float time = 1f)
     {
-
+        //Tweener tweener = go.transform.DOMove(toPos, duration);
+        //DOTween.To(() => (panel.clipOffset.x, x => panel.clipOffset = x, toValue, time);
+        panel.baseClipRegion = new Vector4(panel.baseClipRegion.x, panel.baseClipRegion.y, toValue, panel.baseClipRegion.w);
     }
     
     public static void UpdateNPCPanelValue(UIPanel panel, float toValue, NpcDirection direction = NpcDirection.Left)
@@ -783,6 +785,8 @@ public class NGUIUtil
         if (go == null) {
             return;
         }
+        go.transform.DOMoveY(from, 0);
+        go.transform.DOMoveY(to, duration);
     }
     /// <summary>
     /// 渐进修改游戏对象的Y值（支持动画回调）
@@ -799,6 +803,16 @@ public class NGUIUtil
         if (go == null) {
             return;
         }
+        go.transform.DOMoveY(from, 0);
+        Tweener tweener = go.transform.DOMoveY(to, duration);
+
+        tweener.OnComplete(delegate ()
+        {
+            if (callbackGo != null)
+            {
+                callbackGo.SendMessage(callbackMethod);
+            }
+        });
     }
     
     public static void TweenGameObjectPosX(GameObject go, float to, float duration, GameObject callbackGo, string callbackMethod)
@@ -806,6 +820,15 @@ public class NGUIUtil
         if (go == null) {
             return;
         }
+       
+        Tweener tweener = go.transform.DOMoveX(to, duration);
+        tweener.OnComplete(delegate ()
+        {
+            if (callbackGo != null)
+            {
+                callbackGo.SendMessage(callbackMethod);
+            }
+        });
     }
     
     public static void TweenGameObjectPosX(GameObject go, float to, float duration)
@@ -813,6 +836,7 @@ public class NGUIUtil
         if (go == null) {
             return;
         }
+        go.transform.DOMoveX(to, duration);
     }
     /// <summary>
     /// 反复上下移动
