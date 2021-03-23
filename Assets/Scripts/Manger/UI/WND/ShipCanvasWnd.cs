@@ -118,7 +118,6 @@ public class ShipCanvasWnd : WndBase
         BoatObj.SendGetPlanData();
         
         
-        WndManager.GetDialog<MainMenuWnd>();
         MainCameraM.s_Instance.EnableOthOn(false);
         MainCameraM.s_Instance.ResetCameraDataByHaven();
         MainCameraM.s_Instance.SetCameraLimitParam(MainCameraM.s_reaLimitPyramidHavenView);

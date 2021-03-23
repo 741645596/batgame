@@ -131,13 +131,6 @@ public class MainTownScene : IScene
                 WndManager.GetDialog<PdbbbWnd>();
                 MainTownInit.s_currentState = MainTownState.None;
                 break;
-            case MainTownState.MainMenuTrapBb:
-                MainMenuWnd mmw = WndManager.FindDialog<MainMenuWnd>();
-                if (mmw) {
-                    mmw.BtnTrapWnd_OnClickEventHandler(null);
-                }
-                MainTownInit.s_currentState = MainTownState.None;
-                break;
             case MainTownState.CanvasEdit:
                 DoFunBlock(FunBlock.Boat);
                 MainTownInit.s_currentState = MainTownState.None;
@@ -243,12 +236,10 @@ public class MainTownScene : IScene
     
     void ShowMainTownUI()
     {
-        WndManager.GetDialog<MainMenuWnd>().ShowDialog();
     }
     
     void HideMainTownUI()
     {
-        WndManager.GetDialog<MainMenuWnd>().CloseDialog();
     }
     /// <summary>
     /// 执行新成就检测和表现

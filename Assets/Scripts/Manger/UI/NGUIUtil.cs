@@ -996,11 +996,6 @@ public class NGUIUtil
     /// </summary>
     public static void SetMainMenuTop(WndBase wnd1)
     {
-        MainMenuWnd wnd = WndManager.FindDialog<MainMenuWnd>();
-        if (wnd) {
-            wnd.CloseMenu();
-            WndManager.SetBeforeWnd(wnd, wnd1);
-        }
     }
     
     
