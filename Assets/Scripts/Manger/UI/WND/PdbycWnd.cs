@@ -1,9 +1,7 @@
 ﻿using UnityEngine;
-using System;
 using System.Collections;
 using System.Collections.Generic;
 using sdata;
-using LitJson;
 
 /// <summary>
 /// 炮弹兵背包

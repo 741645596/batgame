@@ -1,8 +1,5 @@
 ﻿using UnityEngine;
-using System;
-using System.Collections;
 using System.Collections.Generic;
-using LitJson;
 
 
 /// <summary>
@@ -54,38 +51,6 @@ public class NpcTalksWnd : WndTopBase
         //设置首句对白
         string str = NGUIUtil.GetNewLineStr(m_lStrTalks[0]);
         NGUIUtil.SetLableText(MyHead.LblTalkDesc, str);
-    }
-    
-    /// <summary>
-    /// 新手引导
-    /// </summary>
-    /// <param name="taskid">任务ID</param>
-    /// <param name="step">步骤</param>
-    /// <param name="jd">json数据</param>
-    /// <param name="direction">npc左右位置</param>
-    public void SetData(int taskid, int step, JsonData jd, NpcDirection direction = NpcDirection.Left)
-    {
-        m_taskid = taskid;
-        m_step = step;
-        SetWndDirection(direction);
-        if (jd == null) {
-            return;
-        }
-        
-        m_lStrTalks.Clear();
-        int count = jd["Talk"].Count;
-        for (int i = 0; i < count; i++) {
-            string str = (string)jd["Talk"][i]["Text"];
-            m_lStrTalks.Add(str);
-        }
-        
-        int npcid = (int)jd["NpcID"];
-        //设置NPC头像
-        NGUIUtil.Set2DSprite(MyHead.Spr2dNpcHead, "Textures/npc/", npcid);
-        //设置NPC名字（现在直接配置到对白中，不需要了）
-        //NGUIUtil.SetLableText(MyHead.LblNpcName, m_lStrNames[npcid-1]);
-        //设置首句对白
-        NGUIUtil.SetLableText(MyHead.LblTalkDesc, m_lStrTalks[0]);
     }
     /// <summary>
     /// 0 透明 1 压黑 2洞洞压黑

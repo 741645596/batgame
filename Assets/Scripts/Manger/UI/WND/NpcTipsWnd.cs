@@ -1,8 +1,6 @@
 ﻿using UnityEngine;
-using System;
 using System.Collections;
 using System.Collections.Generic;
-using LitJson;
 
 /// <summary>
 /// NPC所在的位置
@@ -31,45 +29,6 @@ public class NpcTipsWnd : WndTopBase
     public override void WndStart()
     {
         base.WndStart();
-    }
-    
-    /// <summary>
-    /// 设置npc提示窗口 位置参照2D或3D对象（限定38个中文字符 含标点）
-    /// </summary>
-    /// <param name="jd">json数据</param>
-    /// <param name="pos">世界坐标</param>
-    /// <param name="is2D">窗口位置参照对象 false:3D 对象，默认是2D</param>
-    /// <param name="direction">npc所在位置，默认是左</param>
-    public void SetData(JsonData jd, Vector3 pos, bool is2D = true, NpcDirection direction = NpcDirection.Left)
-    {
-        MyHead.WndAnchorLeft.enabled = false;
-        MyHead.WndAnchorRight.enabled = false;
-        
-        if (direction == NpcDirection.Right) {
-            NGUIUtil.SetActive(MyHead.Left, false);
-            NGUIUtil.SetActive(MyHead.Right, true);
-        }
-        SetData(jd, direction);
-        if (is2D) {
-            Set2DPos(pos);
-        } else {
-            Set3DPos(pos);
-        }
-    }
-    /// <summary>
-    ///设置npc提示窗口 九宫布局（限定20个中文字符 含标点）
-    /// </summary>
-    /// <param name="tips">jsondata</param>
-    /// <param name="align">UIWidget.Pivot 类型</param>
-    /// <param name="direction">npc所在位置，默认是左</param>
-    public void SetData(JsonData jd, UIWidget.Pivot align, NpcDirection direction = NpcDirection.Left)
-    {
-        if (direction == NpcDirection.Right) {
-            NGUIUtil.SetActive(MyHead.Left, false);
-            NGUIUtil.SetActive(MyHead.Right, true);
-        }
-        SetWndAlign(align, direction);
-        SetData(jd, direction);
     }
     /// <summary>
     /// 设置2D偏移
@@ -107,12 +66,6 @@ public class NpcTipsWnd : WndTopBase
             } else if (m_lStrIcon.Count > 0) {
             
             }
-        }
-    }
-    private void SetData(JsonData jd, NpcDirection direction = NpcDirection.Left)
-    {
-        if (jd == null) {
-            return;
         }
     }
     /// <summary>
